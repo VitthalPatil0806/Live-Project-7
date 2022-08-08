@@ -1,0 +1,118 @@
+img[src="./images/logo.svg"]{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+img[src="./images/actions.svg"]{
+    margin-left: 1150px;
+    margin-bottom: 80px;
+    margin-top: -65px;
+}
+.nav-items{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+    margin-top: -80px;
+}
+.nav-item{
+    justify-content: space-around;
+    max-width: 80px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+h3{
+    font-size: 60px;
+    font-family: optima,sans-serif;
+    margin-top: -20px;
+}
+img[src="./images/plus.svg"]{
+    background: #de1d1d;
+    border-radius: 50px;
+    height: 20px;
+    padding: 5px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+h1{
+    font-size: 60px;
+    font-family: sans-serif;
+    margin-top: -10px;
+}
+.sub-headlines{
+    margin-left: 90px;
+    font-size: 30px;
+    font-style: optima,sans-serif;
+}
+.text{
+    margin-right: 800px;
+    color: #b2b3b9;
+}
+
+img[src="./images/discount.svg"]{
+    margin-left: 670px;
+    margin-top: -420px;
+    margin-bottom: 160px;
+    width: 160px;
+}
+.discount-content{
+    margin-left: 700px;
+    margin-top: -300px;
+    margin-bottom: 200px;
+    font-size: 15px;
+    width: 80px;
+    color: #ffffff;
+}
+img[src="./images/headphones.jpg"]{
+    margin-left: 800px;
+    margin-top: -600px;
+    margin-bottom: 250px;
+    width: 500px;
+}
+.yellow-dot{
+    padding: 15px;
+    background-color: #eed30b;
+    border-radius: 50px;
+    margin-left: 950px;
+    margin-right: 650px;
+    margin-top: -200px;
+}
+.tomato-dot{
+    padding: 15px;
+    background-color: #de1d1d;
+    border-radius: 50px;
+    margin-left: 1045px;
+    margin-right: 650px;
+    margin-top: -30px;
+}
+.black-dot{
+    padding: 15px;
+    background-color: #000000;
+    border-radius: 50px;
+    margin-left: 1150px;
+    margin-right: 650px;
+    margin-top: -30px;
+}
+.action-btn{
+    margin-left: 1000px;
+    margin-right: -400px;
+    
+    margin-top: 30px;
+    width: 140px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: #de1d1d;
+    color: #ffffff;
+    border-style: none;
+}
+
+.action-btns{
+    margin-left: -920px;
+    margin-top: -20px;
+   
+    width: 150px;
+    height: 50px;
+    background-color: #de1d1d;
+    border-radius: 20px;
+    color: #ffffff;
+    border-style: none;
+}
