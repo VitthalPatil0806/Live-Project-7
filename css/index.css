@@ -13,6 +13,11 @@ img[src="./images/actions.svg"]{
     margin-left: 300px;
     margin-top: -80px;
 }
+.nav-items:hover{
+    color: #de1d1d;
+    cursor: pointer;
+    text-decoration: underline;
+}
 .nav-item{
     justify-content: space-around;
     max-width: 80px;
